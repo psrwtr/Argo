@@ -1,5 +1,5 @@
 # Argo
-Copy texts
+Open txt file then Copy each falcon/bridge
 # XAPKs
 1-downlpad xpak installer 
 
