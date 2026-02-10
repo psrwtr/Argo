@@ -7,3 +7,5 @@ Copy texts
 
 3-open xapk installer and then select
 "INSTALL .XAPK FILES" ✌️ 
+# Telegram Proxy app
+Just download improto.apk and enjoy 😉
