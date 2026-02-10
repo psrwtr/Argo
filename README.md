@@ -19,5 +19,7 @@ https://t.me/iMTProto
 
 https://t.me/argo_vpnn
 
+https://t.me/ArgoVPNbot
+
 # Hint for AZ vpn 
 👉set protocol to *SSTP* and then connect
