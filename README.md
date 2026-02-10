@@ -18,3 +18,5 @@ https://T.me/MiTiVPN
 https://t.me/iMTProto
 
 https://t.me/argo_vpnn
+#Hint for AZ vpn 
+👉set protocol to SSTP and then connect
