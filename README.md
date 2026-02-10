@@ -12,6 +12,6 @@ Just download improto application
 and enjoy 😉
 And also join this telegram channels for free npv tunnel configs and proxis:
 
-http://T.me/MiTiVPN
+https://T.me/MiTiVPN
 
 https://t.me/iMTProto
