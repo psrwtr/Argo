@@ -10,3 +10,5 @@ Copy texts
 # Telegram Proxy app
 Just download improto application 
 and enjoy 😉
+And also join this telegram channel for npv tunnel configs:
+http://T.me/MiTiVPN
