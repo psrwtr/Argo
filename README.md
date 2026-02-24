@@ -23,6 +23,7 @@ https://t.me/ArgoVPNbot
 
 # Hint for AZ vpn 
 👉set protocol to *SSTP* and then connect
+![1000081932](https://github.com/user-attachments/assets/f57726ad-9096-4ee0-a792-ebfbaa34a1ef)
 
 # GreatFire vpn
  طوری طراحی شده که به یک سرور یا الگوی ترافیکی ثابت وابسته نباشد؛ به همین دلیل شناسایی و مسدودسازی‌اش برای فیلترینگ سخت‌تر است.
